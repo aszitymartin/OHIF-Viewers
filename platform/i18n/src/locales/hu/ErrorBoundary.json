@@ -1,8 +1,8 @@
 {
-  "Context": "Context",
-  "Error Message": "Error Message",
-  "Something went wrong": "Something went wrong",
-  "in": "in",
-  "Sorry, something went wrong there. Try again.": "Sorry, something went wrong there. Try again.",
-  "Stack Trace": "Stack Trace"
+  "Context": "Kontextus",
+  "Error Message": "Hiba üzenet",
+  "Something went wrong": "Valami hiba történt",
+  "in": "a",
+  "Sorry, something went wrong there. Try again.": "Sajnáljuk, valami hiba történt. Kérjük, próbáéja meg újra.",
+  "Stack Trace": "Hibakövetés"
 }
