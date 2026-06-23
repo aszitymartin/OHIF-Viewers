@@ -1,0 +1,13 @@
+{
+  "Copy to Clipboard": "Kép másolása",
+  "File name": "Fájl neve",
+  "Image size": "Kép mérete",
+  "Image size in pixels": "Kép mérete pixelben",
+  "Include annotations": "Megjegyzések megjelenítése",
+  "Include warning message": "Figyelmeztető üzenet megjelenítése",
+  "Width": "Szélesség",
+  "Height": "Magasság",
+  "Save Image": "Kép mentése",
+  "Image copied to clipboard": "Kép másolva a vágólapra",
+  "Failed to copy image to clipboard": "Nem sikerült a képet a vágólapra másolni"
+}
