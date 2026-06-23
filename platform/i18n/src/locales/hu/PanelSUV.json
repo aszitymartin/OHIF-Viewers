@@ -1,10 +1,10 @@
 {
-  "Patient Information": "Patient Information",
-  "Patient Sex": "Patient Sex",
-  "Weight": "Weight",
-  "Total Dose": "Total Dose",
+  "Patient Information": "Beteg Információ",
+  "Patient Sex": "Beteg Neme",
+  "Weight": "Súly",
+  "Total Dose": "Teljes adag",
   "Half Life": "Half Life",
-  "Injection Time": "Injection Time",
-  "Acquisition Time": "Acquisition Time",
-  "Reload Data": "Reload Data"
+  "Injection Time": "Beadási idő",
+  "Acquisition Time": "Beszerzési idő",
+  "Reload Data": "Adatok újratöltése"
 }
