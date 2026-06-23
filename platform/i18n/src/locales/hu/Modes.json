@@ -1,9 +1,9 @@
 {
-  "Basic Dev Viewer": "Basic Dev Viewer",
-  "Basic Test Mode": "Basic Test Mode",
-  "Basic Viewer": "Basic Viewer",
-  "Microscopy": "Microscopy",
-  "Segmentation": "Segmentation",
-  "Total Metabolic Tumor Volume": "Total Metabolic Tumor Volume",
-  "US Pleura B-line Annotations": "US Pleura B-line Annotations"
+  "Basic Dev Viewer": "Alapvető fejlesztői néző",
+  "Basic Test Mode": "Alapvető tesztmód",
+  "Basic Viewer": "Alapvető nézőprogram",
+  "Microscopy": "Mikroszkópia",
+  "Segmentation": "Szegmentálás",
+  "Total Metabolic Tumor Volume": "A tumor teljes metabolikus térfogata",
+  "US Pleura B-line Annotations": "Az USA-ban használt pleura B-vonal jelölések"
 }
