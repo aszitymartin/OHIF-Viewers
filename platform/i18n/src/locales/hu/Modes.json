@@ -4,6 +4,6 @@
   "Basic Viewer": "Alapvető nézőprogram",
   "Microscopy": "Mikroszkópia",
   "Segmentation": "Szegmentálás",
-  "Total Metabolic Tumor Volume": "A tumor teljes metabolikus térfogata",
-  "US Pleura B-line Annotations": "Az USA-ban használt pleura B-vonal jelölések"
+  "Total Metabolic Tumor Volume": "Összesített metabolikus tumortérfogat",
+  "US Pleura B-line Annotations": "Ultrahangos pleura B-vonal annotációk"
 }
