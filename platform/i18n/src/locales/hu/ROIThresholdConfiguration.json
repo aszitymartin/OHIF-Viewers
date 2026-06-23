@@ -1,11 +1,11 @@
 {
   "Max": "Max",
-  "Range": "Range",
-  "Start": "Start",
-  "End": "End",
-  "Percentage of Max SUV": "Percentage of Max SUV",
-  "Lower & Upper Ranges": "Lower & Upper Ranges",
-  "Run": "Run",
-  "Threshold Tools": "Threshold Tools",
-  "ThresholdRange": "Threshold Range"
+  "Range": "Tartomány",
+  "Start": "Kezdés",
+  "End": "Vége",
+  "Percentage of Max SUV": "A Max SUV százalékos aránya",
+  "Lower & Upper Ranges": "Alsó és felső tartományok",
+  "Run": "Futtatás",
+  "Threshold Tools": "Küszöbérték eszközök",
+  "ThresholdRange": "Küszöbérték-tartomány"
 }
