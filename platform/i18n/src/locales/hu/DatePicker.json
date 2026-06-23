@@ -1,13 +1,13 @@
 {
-  "Clear dates": "Clear dates",
+  "Clear dates": "Dátumok törlése",
   "Close": "$t(Common:Close)",
-  "End Date": "End Date",
-  "Last 7 days": "Last 7 days",
-  "Last 30 days": "Last 30 days",
-  "Start Date": "Start Date",
-  "Today": "Today",
-  "Previous Month": "Previous Month",
-  "Next Month": "Next Month",
-  "Select Month": "Select Month",
-  "Select Year": "Select Year"
+  "End Date": "Befejezési dátum",
+  "Last 7 days": "Elmúlt 7 nap",
+  "Last 30 days": "Elmúlt 30 nap",
+  "Start Date": "Kezdési dátum",
+  "Today": "Ma",
+  "Previous Month": "Előző hónap",
+  "Next Month": "Következő hónap",
+  "Select Month": "Válasszon hónapot",
+  "Select Year": "Válasszon évet"
 }
