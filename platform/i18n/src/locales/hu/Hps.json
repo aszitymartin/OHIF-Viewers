@@ -1,14 +1,14 @@
 {
   "MPR": "MPR",
-  "3D four up": "3D four up",
-  "Frame View": "Frame View",
-  "Frame view for the active series": "Frame view for the active series",
+  "3D four up": "3D, négyes elrendezésben",
+  "Frame View": "Képkocka-nézet",
+  "Frame view for the active series": "Az aktív sorozat keretnézete",
   "3D main": "3D main",
   "mpr": "mpr",
-  "3D only": "3D only",
-  "3D primary": "3D primary",
-  "Axial Primary": "Axial Primary",
-  "Compare Two Studies": "Compare Two Studies",
-  "Compare two studies in various layouts": "Compare two studies in various layouts",
-  "Mammography Breast Screening": "Mammography Breast Screening"
+  "3D only": "Csak 3D",
+  "3D primary": "3D elsődleges",
+  "Axial Primary": "Axiális elsődleges",
+  "Compare Two Studies": "Két vizsgálat összehasonlítása",
+  "Compare two studies in various layouts": "Két vizsgálat összehasonlítása különböző elrendezésekben",
+  "Mammography Breast Screening": "Mammográfiás emlőszűrés"
 }
